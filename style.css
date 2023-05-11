@@ -1,0 +1,50 @@
+body {
+    background-image: url("360_F_461214664_3YPpasoxfJZ6JARXgfBH4fQNLp2Fz5E5.jpg")  ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#main{
+    font-family: 'Lobster', cursive;
+    font-size: 4rem !important; 
+    color: greenyellow;
+
+}
+
+.container{
+    text-align: center;
+    margin-top: 4%;
+    margin-bottom: 10% ;
+}
+
+.img2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.names{
+    font-size: 2.5rem;
+    color:greenyellow ;
+    font-family: 'Lobster', cursive;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+
+}
+
+.button1{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 5%;
+    margin-bottom: 5%;
+   
+}
+.button2{
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 1%;
+    margin-bottom: 1%;
+   
+}
